@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+outputs/
+/data/
+floodwater-dataset-v*.zip
+floodwater-manual-v*.zip
+floodwater-dataset-v1.0.0/
